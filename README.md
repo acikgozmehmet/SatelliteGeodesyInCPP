@@ -5,7 +5,7 @@
 
 - The projects in the repository were created while I was teaching coding in C++ to myself. 
 
-  (To be honest it helped me a lot to not only in practicing C++ but also reviewing my knowledge in Satellite Geodesy)
+  (To be honest, it helped me a lot to not only in practicing C++ but also reviewing my knowledge in Satellite Geodesy)
 
 - The main idea behind the project was to create an application which performs single point positioning in C++.
 
