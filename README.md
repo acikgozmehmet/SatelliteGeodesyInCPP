@@ -12,7 +12,7 @@
 - Each subfolder in the project is created for only a step in GPS/GNSS data processing.
 
 ### Details:
-#### Adjustmemt Module
+#### Adjustment Module
 Performs Least Squares Adjustment of the GPS/GNSS data epochwise by creating the design, closoure matrices and performs the matrix opeartions with the help of Matrix class in the same repo.
 
 #### BrdcEph
