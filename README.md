@@ -1,7 +1,7 @@
 # SatelliteGeodesyInCPP
 
 ## General info
-- This repository contains some of the most useful algorithms and OOP classes in Satellite Satellite Positioning.
+- This repository contains some of the most useful algorithms and OOP classes in Satellite Positioning.
 
 - The projects in the repository were created while I was teaching coding in C++ to myself. 
 
