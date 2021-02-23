@@ -34,7 +34,7 @@ Contains utility for reading rinex navigation file and some more including estim
 Contains utility for reading rinex observation file and some more including creating plots.
 
 #### SinglePointPositioning
-Driver program for all the project
+Driver program for the project
 
 #### TimeSystems
 Contains time conversions in GPS/GNSS data processing.
