@@ -13,7 +13,7 @@
 
 ### Details:
 #### Adjustment Module
-Performs Least Squares Adjustment of the GPS/GNSS data epochwise by creating the design, closoure matrices and performs the matrix opeartions with the help of Matrix class in the same repo.
+Performs Least Squares Adjustment of the GPS/GNSS data epochwise by creating the design, clsoure matrices and performs the matrix oparations with the help of Matrix class in the same repo.
 
 #### BrdcEph
 Calculates the position of any GPS/GNSS satellite at any epoch given the rinex navigation file as input.
@@ -22,7 +22,7 @@ Calculates the position of any GPS/GNSS satellite at any epoch given the rinex n
 Contains the constant values in the processing of GPS/GNSS data.
 
 #### Ellipsoid
-Defines an elllipsoid which is to be used in the whole project given the ellipsoid parameters.
+Defines an ellipsoid which is to be used in the whole project given the ellipsoid parameters.
 
 #### GPSModule
 Contains basic utilities for coordinate transformations or some other useful helping calculations such as interplation of sv clocks, troposheric corrections for processing GPS/GNSS data. And some more ...
@@ -31,7 +31,7 @@ Contains basic utilities for coordinate transformations or some other useful hel
 Contains utility for reading rinex navigation file and some more including estimation and creating plots...
 
 #### RinexObsFile
-Contains utility for reading rinex observation file and some more including estimation of coordinates epochwise
+Contains utility for reading rinex observation file and some more including creating plots.
 
 #### SinglePointPositioning
 Driver program for all the project
